@@ -15,7 +15,7 @@ YouTube Offensive Comment Moderation System
 •	Uses OAuth 2.0 authentication.
 •	Scans your channel’s videos, fetches comments, checks for offensiveness, and automatically deletes the offensive ones.
 🔹 Moderation Logic (youtube_cleanup.py):
-•	Gets videos from a channel using channel_id .
+•	Gets videos from a channel using channel_id.
 •	Fetches all comments.
 •	If a comment is offensive:
 o	Deletes it.
