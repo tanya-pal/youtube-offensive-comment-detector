@@ -1,6 +1,7 @@
 YouTube Offensive Comment Moderation System
 
 🔹 Input Dataset:
+
 •	I used a shortened version of Kaggle's Jigsaw Toxic Comment Classification Challenge, trimmed to 500 rows and saved as youtube_offensive_dataset.csv.
 🔹 Models Built:
 •	Binary Classifier (offensive column): Detects whether a comment is offensive or not.
